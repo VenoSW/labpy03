@@ -48,9 +48,8 @@ C. Output
     print("\nDone")
         >>Berfungsi untuk mencetak teks "Done" yang bertanda bahwa program sudah berakhir
 ```
-- Input
-
-- Output
+- Screenshot Input & Ouput
+![Latihan1](https://user-images.githubusercontent.com/22215113/68081087-c77e1d00-fe3a-11e9-8df8-04fcb1e97881.png)
 
 
 # Latihan2
@@ -93,9 +92,8 @@ C. Output
       print("\nAngka Terbesar Adalah ",y)
           >>Untuk menampilkan Hasil dengan mencetak bilangan terbesar yaitu y
 ```
-- Input
-
-- Ouput
+- Screenshot Input & Output
+![Latihan2](https://user-images.githubusercontent.com/22215113/68081103-0ad88b80-fe3b-11e9-96d9-b50b5feb3acc.png)
 
 
 # Program1
@@ -160,6 +158,8 @@ print("\nTotal Laba adalah: ",untung)          ## Menghitung total laba selama 8
     print("\nTotal Laba adalah: ",untung)
       >> Mencetak total laba
 ```
-- Input
+- Screenshot Input
+![Program1(Input)](https://user-images.githubusercontent.com/22215113/68081111-26439680-fe3b-11e9-8e54-5d2b5ea35038.png)
 
-- Output
+- Screenshot Output
+![Program1(Output)](https://user-images.githubusercontent.com/22215113/68081113-365b7600-fe3b-11e9-91f3-395ac9518df5.png)
