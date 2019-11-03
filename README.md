@@ -163,3 +163,9 @@ print("\nTotal Laba adalah: ",untung)          ## Menghitung total laba selama 8
 
 - Screenshot Output
 ![Program1(Output)](https://user-images.githubusercontent.com/22215113/68081113-365b7600-fe3b-11e9-91f3-395ac9518df5.png)
+
+```
+                                                        Veno Setyoaji Wiratama
+                                                               311910363
+                                                               TI.19.A.2
+```
