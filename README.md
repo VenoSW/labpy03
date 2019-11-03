@@ -37,7 +37,7 @@ A. Input
         >> Step angka 1
         
 B. Process 
-    Jumlah = int(input("Masukan Jumlah N:"))
+    n = int(input("Masukan Nilai N: "))
         >>merupakan fungsi untuk menghasilkan interger
     for i in range(start,stop,step):
         >>Perulangan i dengan nilai awal variable start, nilai akhir variable stop dan step variable step\
